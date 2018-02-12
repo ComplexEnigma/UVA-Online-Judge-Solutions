@@ -37,6 +37,7 @@ int n;
 
 void BFS(int source)
 {
+         
     fill(vis,vis+n,false);
     queue <int> Q;
 
@@ -77,14 +78,17 @@ void BFS(int source)
 
 void solve()
 {
+         
     int x,y;
     while(1)
     {
+             
         Clear(G);
         scanf("%d",&n);
         if(n==0)
             break;
         G.resize(n+1);
+             
         while(1)
         {
             scanf("%d",&x);
@@ -99,20 +103,6 @@ void solve()
             }
         }
 
-        /*map<int,vector<int> >::iterator it;
-        cout<<"GRAPH"<<endl;
-        for(it=G.begin();it!=G.end();it++)
-        {
-            cout<<it->first<<" -> ";
-            for(int i=0;i<it->second.size();i++)
-            {
-                cout<<it->second[i]<<" ";
-            }
-
-            cout<<endl;
-        }
-        cout<<endl;*/
-
         int q;
         scanf("%d",&q);
         for(int i=0; i<q; i++)
@@ -120,7 +110,9 @@ void solve()
             scanf("%d",&x);
             BFS(x-1);
         }
+             
     }
+         
 }
 
 int main()
