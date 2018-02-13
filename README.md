@@ -21,5 +21,6 @@
 
 [10959 - The Party, Part I](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_10959.cpp)
 
-© Copyright
-[Symon Hasan](https://www.facebook.com/symonhs)
+                                ________________________________________________________________________
+                                    ©Copyright[Symon Hasan](https://www.facebook.com/symonhs)
+                                ________________________________________________________________________
