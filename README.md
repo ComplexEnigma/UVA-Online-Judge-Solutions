@@ -3,6 +3,8 @@
                                                         GRAPH THEORY
                                                 __________________________
 
+__________________________________________________________________________________________________________________________________________
+
 [280 - Vertex](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_280.cpp)
 
 [336 - A Node Too Far](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_336.cpp)
@@ -21,6 +23,9 @@
 
 [10959 - The Party, Part I](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_10959.cpp)
 
-                                ________________________________________________________________________
-                                    ©Copyright[Symon Hasan](https://www.facebook.com/symonhs)
-                                ________________________________________________________________________
+__________________________________________________________________________________________________________________________________________
+
+                                
+                                                    ______________________________
+                                                        ©Copyright Symon Hasan
+                                                    ______________________________
