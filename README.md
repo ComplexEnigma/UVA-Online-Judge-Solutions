@@ -31,6 +31,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________
 
 [11340 - Newspaper](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_11340.cpp)
+
 [755 - 487--3279](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_755.cpp)
 
                                                 
