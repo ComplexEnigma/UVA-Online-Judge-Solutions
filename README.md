@@ -30,9 +30,19 @@ ________________________________________________________________________________
                                         1D  A R R A Y  M A N I P U L A T I O N
 _________________________________________________________________________________________________________________________________
 
-[11340 - Newspaper](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_11340.cpp)
+[414 - Machined Surfaces](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_414.cpp)
+
+[591 - Box of Bricks](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_591.cpp)
 
 [755 - 487--3279](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_755.cpp)
+
+[10038 - Jolly Jumpers](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_10038.cpp)
+
+[10050 - Hartals](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_10050.cpp)
+
+[11192 - Group Reverse](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_11340.cpp)
+
+[11340 - Newspaper](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_11340.cpp)
 
 [11608 - No Problem!](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_11608.cpp)
 
