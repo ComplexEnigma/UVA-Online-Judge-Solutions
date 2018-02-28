@@ -71,7 +71,7 @@ void C_Enigma()
 
 int main()
 {
-    filein();fileout();
+    //filein();fileout();
     C_Enigma();
 
     return 0;
