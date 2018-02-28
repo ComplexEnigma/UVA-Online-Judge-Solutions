@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 [10050 - Hartals](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_10050.cpp)
 
-[11192 - Group Reverse](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_11340.cpp)
+[11192 - Group Reverse](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_11192.cpp)
 
 [11340 - Newspaper](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_11340.cpp)
 
