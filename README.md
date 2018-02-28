@@ -27,7 +27,10 @@ ________________________________________________________________________________
 
 [256 - Quirksome Squares](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_256.cpp)
 
+                                        1D  A R R A Y  M A N I P U L A T I O N
+_________________________________________________________________________________________________________________________________
 
+[11340 - Newspaper](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_11340.cpp)
 
                                                 
                                                         - THE END -                                         
