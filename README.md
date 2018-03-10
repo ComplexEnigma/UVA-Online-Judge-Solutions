@@ -119,5 +119,5 @@ ________________________________________________________________________________
                                                 
                                                         - THE END -                                         
                                                                
-# ©Copyright
-# [Symon Hasan](https://www.facebook.com/symonhs)
+© C O P Y R I G H T
+[S Y M O N  H A S A N](https://www.facebook.com/symonhs)
