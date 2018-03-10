@@ -1,6 +1,6 @@
 # UVA-Online-Judge-Solutions
 
-                             G E T T I N G  S T A R T E D  :  T H E  E A S Y  P R O B L E M S
+#                             G E T T I N G  S T A R T E D  :  T H E  E A S Y  P R O B L E M S
 ________________________________________________________________________________________________________________________________
 # Super Easy
 
@@ -67,12 +67,12 @@ ________________________________________________________________________________
 [12478 - Hardest Problem Ever (EASY)](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_12478.cpp)
 
 
-                                            I T E R A T I V E O N E L O O P
+#                                            I T E R A T I V E O N E L O O P
 ________________________________________________________________________________________________________________________________
 
 [256 - Quirksome Squares](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_256.cpp)
 
-                                        1D  A R R A Y  M A N I P U L A T I O N
+ #                                       1D  A R R A Y  M A N I P U L A T I O N
 _________________________________________________________________________________________________________________________________
 
 [414 - Machined Surfaces](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_414.cpp)
@@ -94,7 +94,7 @@ ________________________________________________________________________________
 [11608 - No Problem!](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_11608.cpp)
 
 
-                                                  G R A P H T H E O R Y
+#                                                  G R A P H T H E O R Y
 ________________________________________________________________________________________________________________________________
 
 [280 - Vertex](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_280.cpp)
