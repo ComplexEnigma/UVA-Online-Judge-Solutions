@@ -116,6 +116,10 @@ ________________________________________________________________________________
 [10959 - The Party, Part I](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_10959.cpp)
 
 
+                                    L O N G E S T C O M M O N S U B S E Q U E N C E
+_________________________________________________________________________________________________________________________________
+[111 - History Grading](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_111.cpp)
+
                                                 
                                                         - THE END -                                         
                                                                
