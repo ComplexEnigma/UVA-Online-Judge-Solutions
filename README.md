@@ -127,6 +127,11 @@ ________________________________________________________________________________
                                               M A T H E M A T I C S
  _______________________________________________________________________________________________________________________________
  [11417 - GCD](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_11417.cpp)
+ 
+                                                    S T L
+________________________________________________________________________________________________________________________________
+[484 - The Department of Redundancy Department](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_484.cpp)
+ 
 
                                                 
                                                         - THE END -                                         
