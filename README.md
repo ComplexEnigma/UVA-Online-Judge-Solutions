@@ -121,6 +121,12 @@ ________________________________________________________________________________
 
 [111 - History Grading](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_111.cpp)
 
+                                 L O N G E S T I N C R E A S I N G S U B S E Q U E N C E
+________________________________________________________________________________________________________________________________
+
+[231 - Testing the CATCHER](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_231.cpp)
+
+
                                                   G R E E D Y
 _________________________________________________________________________________________________________________________________
 
