@@ -145,6 +145,8 @@ ________________________________________________________________________________
 [11988 - Broken Keyboard (a.k.a. Beiju Text)](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_11988.cpp)
 
 [10295 - Hay Points](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_10295.cpp)
+
+[146 - ID Codes](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_146.cpp)
  
 
                                                 
