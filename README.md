@@ -151,6 +151,8 @@ ________________________________________________________________________________
 [400 - Unix Is](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_400.cpp)
 
 [10258 - Contest Scoreboard](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_10258.cpp)
+
+[11588 - Image Coding](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_11588.cpp)
  
 
                                                 
