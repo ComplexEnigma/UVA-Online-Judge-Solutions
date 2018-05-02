@@ -32,6 +32,8 @@ Super Easy
 
 [12577 - Hajj-e-Akbar](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_12577.cpp)
 
+[12789 - Handball](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_12789.cpp)
+
 Easy
 
 [10300 - Ecological Premium](https://github.com/ComplexEnigma/UVA-Online-Judge-Solutions/blob/master/UVA_10300.cpp)
