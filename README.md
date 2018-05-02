@@ -149,6 +149,8 @@ ________________________________________________________________________________
 [146 - ID Codes](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_146.cpp)
 
 [400 - Unix Is](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_400.cpp)
+
+[10258 - Contest Scoreboard](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_10258.cpp)
  
 
                                                 
