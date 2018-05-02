@@ -157,6 +157,8 @@ ________________________________________________________________________________
 [11588 - Image Coding](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_11588.cpp)
 
 [12100 - Printer Queue](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_12100.cpp)
+
+[10226 - Hardwood Species](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_10226.cpp)
  
 
                                                 
