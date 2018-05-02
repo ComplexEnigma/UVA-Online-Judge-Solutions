@@ -155,6 +155,8 @@ ________________________________________________________________________________
 [10258 - Contest Scoreboard](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_10258.cpp)
 
 [11588 - Image Coding](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_11588.cpp)
+
+[12100 - Printer Queue](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_12100.cpp)
  
 
                                                 
