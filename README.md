@@ -147,6 +147,8 @@ ________________________________________________________________________________
 [10295 - Hay Points](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_10295.cpp)
 
 [146 - ID Codes](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_146.cpp)
+
+[400 - Unix Is](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_400.cpp)
  
 
                                                 
