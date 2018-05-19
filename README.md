@@ -134,13 +134,14 @@ ________________________________________________________________________________
 
 [10954 - Add All](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_10954.cpp)
 
-[10281 - Average Speed](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_10281.cpp)
 
 
                                               M A T H E M A T I C S
  _______________________________________________________________________________________________________________________________
  
  [11417 - GCD](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_11417.cpp)
+ 
+ [10281 - Average Speed](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_10281.py)
  
                                                     S T L
 ________________________________________________________________________________________________________________________________
