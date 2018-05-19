@@ -160,8 +160,10 @@ ________________________________________________________________________________
 
 [10226 - Hardwood Species](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_10226.cpp)
  
+                                              C O M B I N O T R I C S
+________________________________________________________________________________________________________________________________
 
-                                                
+[10219 - Find the ways!](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_10219.py)                                                
                                                         - THE END -                                         
                                                                
 © C O P Y R I G H T
