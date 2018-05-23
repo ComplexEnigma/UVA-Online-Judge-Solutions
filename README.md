@@ -143,6 +143,8 @@ ________________________________________________________________________________
  
  [10281 - Average Speed](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_10281.py)
  
+ [713 - Adding Reversed Number](https://github.com/symonhasan/UVA-Online-Judge-Solutions/blob/master/UVA_713.cpp)
+ 
                                                     S T L
 ________________________________________________________________________________________________________________________________
 
