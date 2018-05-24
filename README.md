@@ -145,6 +145,8 @@ ________________________________________________________________________________
  
  [713 - Adding Reversed Number](https://github.com/symonhasan/UVA-Online-Judge-Solutions/blob/master/UVA_713.cpp)
  
+ [748 - Exponentiation](https://github.com/symonhasan/UVA-Online-Judge-Solutions/blob/master/UVA_748.java)
+ 
                                                     S T L
 ________________________________________________________________________________________________________________________________
 
