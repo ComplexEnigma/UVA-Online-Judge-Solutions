@@ -173,6 +173,11 @@ ________________________________________________________________________________
 
 [10219 - Find the ways!](https://github.com/nomyspy/UVA-Online-Judge-Solutions/blob/master/UVA_10219.py)      
 
+                                       M A X I M U M S U B A R R A Y
+________________________________________________________________________________________________________________________________
+
+[10684 - The jackpot](https://github.com/symonhasan/UVA-Online-Judge-Solutions/blob/master/UVA_10684.cpp)
+
                                                         - THE END -                                         
                                                                
 © C O P Y R I G H T
