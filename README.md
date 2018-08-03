@@ -178,6 +178,11 @@ ________________________________________________________________________________
 
 [10684 - The jackpot](https://github.com/symonhasan/UVA-Online-Judge-Solutions/blob/master/UVA_10684.cpp)
 
+                             T W O C O M P O N E N T S - I n v o l v i n g D P 1 D R S Q / R M Q
+________________________________________________________________________________________________________________________________
+
+[12028 - A Gift From The Setter](https://github.com/symonhasan/UVA-Online-Judge-Solutions/blob/master/UVA_12028.cpp)
+
                                                         - THE END -                                         
                                                                
 © C O P Y R I G H T
