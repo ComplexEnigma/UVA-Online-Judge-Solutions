@@ -183,6 +183,11 @@ ________________________________________________________________________________
 
 [12028 - A Gift From The Setter](https://github.com/symonhasan/UVA-Online-Judge-Solutions/blob/master/UVA_12028.cpp)
 
+                             F I N D I N G P A T T E R N & F O R M U L A
+________________________________________________________________________________________________________________________________
+
+[12027 - Very Big Perfect Squares](https://github.com/symonhasan/UVA-Online-Judge-Solutions/blob/master/UVA_12027.cpp)
+
                                                         - THE END -                                         
                                                                
 © C O P Y R I G H T
