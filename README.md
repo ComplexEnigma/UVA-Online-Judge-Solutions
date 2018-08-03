@@ -188,6 +188,12 @@ ________________________________________________________________________________
 
 [12027 - Very Big Perfect Squares](https://github.com/symonhasan/UVA-Online-Judge-Solutions/blob/master/UVA_12027.cpp)
 
+
+                             F I N D I N G P A T T E R N & F O R M U L A
+________________________________________________________________________________________________________________________________
+
+[12898 - And Or](https://github.com/symonhasan/UVA-Online-Judge-Solutions/blob/master/UVA_12898.cpp)
+
                                                         - THE END -                                         
                                                                
 © C O P Y R I G H T
