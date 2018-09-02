@@ -194,6 +194,11 @@ ________________________________________________________________________________
 
 [12898 - And Or](https://github.com/symonhasan/UVA-Online-Judge-Solutions/blob/master/UVA_12898.cpp)
 
+                                     B I N A R Y S E A R C H
+________________________________________________________________________________________________________________________________
+
+[10341 - Solve it](https://github.com/symonhasan/UVA-Online-Judge-Solutions/blob/master/UVA_10341.cpp)
+
                                                         - THE END -                                         
                                                                
 © C O P Y R I G H T
