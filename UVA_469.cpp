@@ -28,7 +28,6 @@ void DFS( node s )
 
     int r = G.size();
     int c = G[0].length();
-
     //cout << r << "  " << c << endl;
 
     for(int i=0; i<8; i++ )
@@ -41,7 +40,7 @@ void DFS( node s )
          //cout << ix << " -> " << iy << "  = " << s.x << " -> " << s.y << endl << endl;
         if( visited[ s.x-1 ][ s.y-1 ]==0 && G[ s.x-1 ][ s.y-1 ]=='W' )
         {
-            //cout << "YES" << endl << endl;
+           // cout << "YES" << endl << endl;
             visited[ s.x-1 ][ s.y-1 ] = 1;
             counter++;
             DFS( s );
@@ -52,7 +51,7 @@ void DFS( node s )
 int main()
 {
 //    freopen("in.txt","r",stdin);
-//    freopen("out.txt","w",stdout);
+//   freopen("out.txt","w",stdout);
     int t;
     scanf("%d", &t );
     getchar();
@@ -67,9 +66,11 @@ int main()
         while( 1 )
         {
             getline( cin,s );
+
             if( s[0]>=47 && s[0]<=57 )
                 break;
-            G.push_back( s );
+            if( s[0]=='L' || s[0]=='W' )
+                    G.push_back( s );
         }
 
         node source;
